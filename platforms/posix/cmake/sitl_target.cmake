@@ -141,6 +141,7 @@ set(worlds
 	empty
 	ksql_airport
 	mcmillan_airfield
+	simple_obstacle
 	sonoma_raceway
 	warehouse
 	windy
